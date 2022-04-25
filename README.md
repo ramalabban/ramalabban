@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @ramalabban
-- 👀 I’m a Frontend Angular Developer ...
 
 
 <!---
